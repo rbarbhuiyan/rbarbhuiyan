@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages
+### Languages
 
-## Interests
+### Interests
 
-## Links
+### Links
