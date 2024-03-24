@@ -1,8 +1,8 @@
 ### Hi! I'm Ridwan 😊
 
-I'll be building this profile up over the coming weeks, so there's not much to see right now, but hopefully soon!
+I'll be building this profile up over the coming weeks, so there might not be much to see here right now, but hopefully soon!
 
-In the mean time, if you want to find out more about me please explore with the links below:
+In the mean time, if you want to find out more about me, please explore with the links below:
 
 [![Personal Website](https://img.shields.io/badge/My%20Website-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEwEBAQEBAQICAgICAgFBQUHBwcdHR0DAwMKCgoPDw8NDQ0SEhIKCgoFBQUICAgKCgoLCwsGBgYFBQUDAwMGBgYGBgYFBQUKCgoGBgYHBwcHBwcEBASpzdOpAAAAHXRSTlMAsMBTT6hnBrZaHxcNLaJCNSRqk9B8iJpJhHNc5OkMRz0AAAFtSURBVDjLhVPZtoMgDARkXwVxbf//Oy8B21rrPfKAHpgMk0mC0GdpOs6MzSPV6GKJMEi2cqX4yuQQxPm+95jH/VREjn3/HZ4It8cDy0k6kNgJuzOlw9M7REze/IoyfnpxJGyuZBucdn3kwK8PKTpSlQrPYXe0K6tflh6+iwMB3MMjAZd/M2fJGCNSKUnKDyY4FPGwoQEIBulEQXcA6IDQbLnw86E8KmMhyKG+SgFAmwJfLqPUiLISqbP7ASQskGAUjSs4JfkPYMNlW0c01ytKlLFWdB+AlRvkMSOmaq7bM0spMwC4jjEGT8ARxRrATnKjIYQRAJkQkp9DhMAHa09sRH80cKPNsqtOcxUpdo0HkfNQD4pISNOS5Qxw4FNNE4wSeDwD0AR1AKOq1V1+GFG8PqQZ89KsbsXqJMF7sfBu1IhFK1Yrt3XLq9x799ggWrlvG+a75cRFy9037W3b3w/O/ei9hzepR7oe3n/H/w+n9RRUdeS8NwAAAABJRU5ErkJggg==&logoColor=white)](https://www.ridwanb.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ididyne)
