@@ -2,6 +2,14 @@
 
 I'll be building this profile up over the coming weeks, so there's not much to see right now, but hopefully soon!
 
+In the mean time, if you want to find out more about me please explore with the links below:
+
+[![Personal Website](https://img.shields.io/badge/My%20Website-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEwEBAQEBAQICAgICAgFBQUHBwcdHR0DAwMKCgoPDw8NDQ0SEhIKCgoFBQUICAgKCgoLCwsGBgYFBQUDAwMGBgYGBgYFBQUKCgoGBgYHBwcHBwcEBASpzdOpAAAAHXRSTlMAsMBTT6hnBrZaHxcNLaJCNSRqk9B8iJpJhHNc5OkMRz0AAAFtSURBVDjLhVPZtoMgDARkXwVxbf//Oy8B21rrPfKAHpgMk0mC0GdpOs6MzSPV6GKJMEi2cqX4yuQQxPm+95jH/VREjn3/HZ4It8cDy0k6kNgJuzOlw9M7REze/IoyfnpxJGyuZBucdn3kwK8PKTpSlQrPYXe0K6tflh6+iwMB3MMjAZd/M2fJGCNSKUnKDyY4FPGwoQEIBulEQXcA6IDQbLnw86E8KmMhyKG+SgFAmwJfLqPUiLISqbP7ASQskGAUjSs4JfkPYMNlW0c01ytKlLFWdB+AlRvkMSOmaq7bM0spMwC4jjEGT8ARxRrATnKjIYQRAJkQkp9DhMAHa09sRH80cKPNsqtOcxUpdo0HkfNQD4pISNOS5Qxw4FNNE4wSeDwD0AR1AKOq1V1+GFG8PqQZ89KsbsXqJMF7sfBu1IhFK1Yrt3XLq9x799ggWrlvG+a75cRFy9037W3b3w/O/ei9hzepR7oe3n/H/w+n9RRUdeS8NwAAAABJRU5ErkJggg==&logoColor=white)](https://www.ridwanb.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ididyne)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwanbarbhuiyan/)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-F30?logo=soundcloud&logoColor=white&style=for-the-badge)](https://soundcloud.com/iditherunningman)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCY_TCqUc9iswAjTl5rio02w)
+
 <!--
 **rbarbhuiyan/rbarbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -77,6 +85,7 @@ Here are some ideas to get you started:
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9d9cff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=362149)
+  ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-99F?logo=adobeaudition&logoColor=white&style=for-the-badge)
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ff8008.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=403124)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-37abff.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=08253c)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-37abff.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=08253c)
@@ -84,6 +93,7 @@ Here are some ideas to get you started:
 
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000?logo=autodesk&logoColor=white&style=for-the-badge)
+![Darktable](https://img.shields.io/badge/Darktable-333333?logo=data:image/png;base64,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&logoColor=white&style=for-the-badge)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white&style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
@@ -120,12 +130,14 @@ Here are some ideas to get you started:
 
 ![Azure Boards](https://img.shields.io/badge/azure%20boards-089781?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Evernote](https://img.shields.io/badge/Evernote-00A82D?style=for-the-badge&logo=evernote&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 #### Other
 
 <!-- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) -->
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white&style=for-the-badge)
 
 ##### Geospatial
 
@@ -153,23 +165,17 @@ Here are some ideas to get you started:
 
 ### Interests
 
- - 📷 Photography (Timelapse, Landscape, and Astro in particular)
+ - ❔ Ethics \& Philosophy
+ - ⚖ Meaningful Diversity, Equity, and Inclusivity (DEI)
+ - 📷 Photography (Timelapse, Aerial/Drone, Landscape, and Astro in particular)
  - 🎥 Video-Editing
  - <img src="https://github.com/rbarbhuiyan/rbarbhuiyan/assets/910048/51625867-28b2-4a23-ae0f-9870677c9ec2" alt="Squash Emoji from Flaticon" width="16"/>&nbsp; Squash
- - ❔ Ethics \& Philosophy
- - 📖 Reading
+ - 🎲 Board Games
+ - 🎮 Video Games
+ - 📖 Reading (Sci-Fi, Fantasy)
  - 🗺 Travelling
- - ⚖ Meaningful Diversity, Equity, and Inclusivity (DEI)
  - ✍ Writing
 
 ### Links
-
-#### Socials
-[![Personal Website](https://img.shields.io/badge/My%20Website-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEwEBAQEBAQICAgICAgFBQUHBwcdHR0DAwMKCgoPDw8NDQ0SEhIKCgoFBQUICAgKCgoLCwsGBgYFBQUDAwMGBgYGBgYFBQUKCgoGBgYHBwcHBwcEBASpzdOpAAAAHXRSTlMAsMBTT6hnBrZaHxcNLaJCNSRqk9B8iJpJhHNc5OkMRz0AAAFtSURBVDjLhVPZtoMgDARkXwVxbf//Oy8B21rrPfKAHpgMk0mC0GdpOs6MzSPV6GKJMEi2cqX4yuQQxPm+95jH/VREjn3/HZ4It8cDy0k6kNgJuzOlw9M7REze/IoyfnpxJGyuZBucdn3kwK8PKTpSlQrPYXe0K6tflh6+iwMB3MMjAZd/M2fJGCNSKUnKDyY4FPGwoQEIBulEQXcA6IDQbLnw86E8KmMhyKG+SgFAmwJfLqPUiLISqbP7ASQskGAUjSs4JfkPYMNlW0c01ytKlLFWdB+AlRvkMSOmaq7bM0spMwC4jjEGT8ARxRrATnKjIYQRAJkQkp9DhMAHa09sRH80cKPNsqtOcxUpdo0HkfNQD4pISNOS5Qxw4FNNE4wSeDwD0AR1AKOq1V1+GFG8PqQZ89KsbsXqJMF7sfBu1IhFK1Yrt3XLq9x799ggWrlvG+a75cRFy9037W3b3w/O/ei9hzepR7oe3n/H/w+n9RRUdeS8NwAAAABJRU5ErkJggg==&logoColor=white)](https://www.ridwanb.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ididyne)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwanbarbhuiyan/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCY_TCqUc9iswAjTl5rio02w)
-
-#### Donate
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Hot%20Chocolate!-1f9141?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Ididyne)
