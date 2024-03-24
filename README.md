@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ### Links
 
-<a href="https://www.buymeacoffee.com/Ididyne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1f9141?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Ididyne)
