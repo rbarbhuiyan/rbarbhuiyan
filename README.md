@@ -49,6 +49,15 @@ Here are some ideas to get you started:
 
 ### Interests
 
+ - 📷 Photography (Timelapse, Landscape, and Astro in particular)
+ - 🎥 Video-Editing
+ - <img src="https://github.com/rbarbhuiyan/rbarbhuiyan/assets/910048/51625867-28b2-4a23-ae0f-9870677c9ec2" alt="Squash Emoji from Flaticon" width="16"/>&nbsp; Squash
+ - ❔ Ethics \& Philosophy
+ - 📖 Reading
+ - 🗺 Travelling
+
+
+
 ### Links
 
 <a href="https://www.buymeacoffee.com/Ididyne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
