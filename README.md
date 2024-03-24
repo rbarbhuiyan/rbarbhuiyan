@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-164080.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9d9cff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=362149)
+  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ff8008.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=403124)
+  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-37abff.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=08253c)
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-37abff.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=08253c)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-eb7bff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=31083a)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
