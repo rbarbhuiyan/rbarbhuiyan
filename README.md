@@ -1,4 +1,4 @@
-### Hi, I'm Ridwan 👋
+### Hi! I'm Ridwan 😊
 
 I'll be building this profile up over the coming weeks, so there's not much to see right now, but hopefully soon!
 
