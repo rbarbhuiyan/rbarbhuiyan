@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 ### Software \& Tools
 
-Note: This is in the process of being tidied up!
+
+
+<details>
+  <summary>Click to expand. Note: This is in the process of being tidied up!</summary>
 
 #### Research \& Development
 
@@ -129,6 +132,7 @@ Note: This is in the process of being tidied up!
   ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 </details>
 -->
+</details>
 
 ### Interests
 
