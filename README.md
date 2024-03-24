@@ -76,13 +76,13 @@ Here are some ideas to get you started:
 #### Creativity
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9d9cff.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=362149)
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ff8008.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=403124)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-37abff.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=08253c)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-37abff.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=08253c)
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-eb7bff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=31083a)
 
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000?logo=autodesk&logoColor=white&style=for-the-badge)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white&style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -160,6 +160,7 @@ Here are some ideas to get you started:
  - 📖 Reading
  - 🗺 Travelling
  - ⚖ Meaningful Diversity, Equity, and Inclusivity (DEI)
+ - ✍ Writing
 
 ### Links
 
