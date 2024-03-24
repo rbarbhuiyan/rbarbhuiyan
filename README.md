@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Software \& Tools
 
-<details open>
+<details>
   <summary>Click to expand/collapse. Note: This is in the process of being tidied up!</summary>
 
 #### Research \& Development
