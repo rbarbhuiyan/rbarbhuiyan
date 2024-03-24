@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 ##### Collaboration
 
-![Azure Repos](https://img.shields.io/badge/azure%20repos-ed3608?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
+  ![Azure Repos](https://img.shields.io/badge/azure%20repos-ed3608?style=for-the-badge&logo=azuredevops&logoColor=white)
+  ![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 
 #### Cloud
 
