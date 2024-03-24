@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white&style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-#### Documentation, Reporting, \& Visualisation
+#### Documentation \& Visualisation
 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-%2318A303?style=for-the-badge&logo=GoogleDocs&logoColor=white)
