@@ -156,10 +156,11 @@ Here are some ideas to get you started:
 -->
 </details>
 
-### Interests
+### Hobbies \& Interests
 
  - ❔ Ethics \& Philosophy
  - ⚖ Meaningful Diversity, Equity, and Inclusivity (DEI)
+ - 💻 Tech for Good
  - 📷 Photography (Timelapse, Aerial/Drone, Landscape, and Astro in particular)
  - 🎥 Video-Editing
  - <img src="https://github.com/rbarbhuiyan/rbarbhuiyan/assets/910048/51625867-28b2-4a23-ae0f-9870677c9ec2" alt="Squash Emoji from Flaticon" width="16"/>&nbsp; Squash
