@@ -119,7 +119,6 @@ Here are some ideas to get you started:
 #### Project Management \& Organisation
 
 ![Agile](https://img.shields.io/badge/Agile-fab532?style=flat-square)
-
   ![Kanban](https://img.shields.io/badge/Kanban-795c9f?style=flat-square)
   ![Scrum](https://img.shields.io/badge/Scrum-289db7?style=flat-square)
 
