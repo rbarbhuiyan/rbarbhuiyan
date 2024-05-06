@@ -1,6 +1,9 @@
 ### Hi! I'm Ridwan 😊
 
-I'll be building this profile up over the coming weeks, so there might not be much to see here right now, but hopefully soon!
+I love problem-solving and being creative, so you'll typically find me tinkering
+away on projects of either of those natures (ideally both!). If there's
+something you'd like my help with or an idea you have, please feel free to get
+in touch!
 
 <!--
 **rbarbhuiyan/rbarbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +23,7 @@ Here are some ideas to get you started:
 ### Software \& Tools
 
 <details>
-  <summary>Click to expand/collapse. Note: This is in the process of being tidied up!</summary>
+  <summary>Click here to expand/collapse a list of tools that I use and am experienced in.</summary>
 
 #### Research \& Development
 
@@ -42,13 +45,7 @@ Here are some ideas to get you started:
   ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-##### IDEs
-
-![Spyder](https://img.shields.io/badge/Spyder%20IDE-F00?style=flat-square&logo=spyderide&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-##### Other
+##### Other Languages \& Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -59,6 +56,12 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?logo=visualbasic&logoColor=white&style=flat-square)
 ![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
+
+##### IDEs
+
+![Spyder](https://img.shields.io/badge/Spyder%20IDE-F00?style=flat-square&logo=spyderide&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
