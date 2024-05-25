@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-ff8008.svg?style=flat-square&logo=adobe%20illustrator&logoColor=403124)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-37abff.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=08253c)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-37abff.svg?style=flat-square&logo=adobe%20photoshop&logoColor=08253c)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-eb7bff.svg?style=flat-square&logo=Adobe_Premiere_Pro&logoColor=31083a)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-eb7bff.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=31083a)
 
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000?logo=autodesk&logoColor=white&style=flat-square)
