@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 
-##### Collaboration
+##### Collaboration \& Version Control
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
   ![Azure Repos](https://img.shields.io/badge/Azure_Repos-ed3608?style=flat-square&logo=azuredevops&logoColor=white)
