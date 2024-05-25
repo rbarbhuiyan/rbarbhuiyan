@@ -147,13 +147,18 @@ Here are some ideas to get you started:
 #### Other
 
 <!-- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) -->
-![Jellyfin](https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=flat-square&logo=Jellyfin&logoColor=00A4DC)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white&style=flat-square)
 
 ##### Geospatial
 
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2c7ac3?&style=flat-square&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-93b023?&style=flat-square&logo=qgis&logoColor=white)
+
+##### Media \& Streaming
+
+![Jellyfin](https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=flat-square&logo=Jellyfin&logoColor=00A4DC)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white&style=flat-square)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)
+
 
 <!--
 <details>
